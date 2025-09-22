@@ -1,0 +1,8 @@
+{
+  "name": "Copy of AI Family Butler",
+  "description": "An AI-powered application to help families manage their daily meals, providing personalized meal plans, recipes, and dining-out suggestions based on family members' dietary needs and preferences.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
